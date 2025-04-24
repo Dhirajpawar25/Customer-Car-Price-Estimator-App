@@ -45,6 +45,12 @@ This project demonstrates how data science and machine learning can be used to s
 
 ## 📁 Project Structure
 
+├── app.py              # Streamlit application
+├── scaler.pkl          # Pre-fitted scaler object
+├── model.pkl           # Trained ML model
+├── CarSales.ipynb      # (Optional) Jupyter notebook for training
+└── README.md           # Project documentation
+
 
 ---
 
